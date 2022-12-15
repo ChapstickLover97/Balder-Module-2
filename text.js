@@ -1,0 +1,1 @@
+console.log("Just fucking kill me why doesn't this shit ever work the first fucking time");
